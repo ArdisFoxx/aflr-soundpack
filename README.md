@@ -1,6 +1,6 @@
 # AFLR Soundpack
 
-The recommended companion soundpack for **[ArdisFoxx's Lewd RPG](https://github.com/ArdisFoxx/ardisfoxxs-lewd-rpg)** on Foundry VTT.
+The recommended companion soundpack for **ArdisFoxx's Lewd RPG** on Foundry VTT.
 
 A curated selection of voices and SFX. The download covers AFLP's full audio feature set.
 
