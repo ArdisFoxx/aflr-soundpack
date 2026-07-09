@@ -1,8 +1,8 @@
 {
   "id": "aflr-soundpack",
   "title": "AFLR Soundpack",
-  "description": "<p>The recommended companion soundpack for <strong>ArdisFoxx's Lewd Roleplaying</strong> (AFLR, module id <code>ardisfoxxs-lewd-pf2e</code>). A curated selection of voice profiles and ambient SFX that expands AFLR's full audio feature set: escalating moans, climax / edge / struggle / defeat voices, cumflation lines, positional plaps, oral and fingering SFX, and cumflation stings. AFLR auto-detects it once enabled. </p><p><strong>Audio credit:</strong> All voice and sound-effect audio is from the <strong>OpenNSFW Sound Pack</strong>, licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This is an SFX pack - please contact @OpenNSFWSP rather than individual contributors. See CREDITS.txt at the module root and 'README - OpenNSFW SFX Pack Terms.pdf' in the aflp-sfx folder.</p>",
-  "version": "1.0.0",
+  "description": "<p>The recommended companion soundpack for <strong>ArdisFoxx's Lewd Roleplaying</strong> (AFLR, module id <code>ardisfoxxs-lewd-rpg</code>, and its PF2e-only fork AFLP, <code>ardisfoxxs-lewd-pf2e</code>). A curated selection of voice profiles and ambient SFX that expands AFLR's full audio feature set: escalating moans, climax / edge / struggle / defeat voices, cumflation lines, positional plaps, oral and fingering SFX, and cumflation stings. AFLR auto-detects it once enabled. </p><p><strong>Audio credit:</strong> All voice and sound-effect audio is from the <strong>OpenNSFW Sound Pack</strong>, licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This is an SFX pack - please contact @OpenNSFWSP rather than individual contributors. See CREDITS.txt at the module root and 'README - OpenNSFW SFX Pack Terms.pdf' in the aflp-sfx folder.</p>",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -15,7 +15,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/ArdisFoxx/aflr-soundpack-lite",
+  "url": "https://github.com/ArdisFoxx/aflr-soundpack",
   "manifest": "https://github.com/ArdisFoxx/aflr-soundpack/releases/latest/download/module.json",
   "download": "https://github.com/ArdisFoxx/aflr-soundpack/releases/latest/download/module.zip",
   "readme": "https://github.com/ArdisFoxx/aflr-soundpack/blob/main/README.md",
@@ -34,9 +34,8 @@
       {
         "id": "ardisfoxxs-lewd-rpg",
         "type": "module",
-        "reason": "Host module the soundpack provides audio for (PF2e)."
+        "reason": "Host module the soundpack provides audio for (multi-system)."
       }
     ]
-  },
-  "action": "manageModule"
+  }
 }
