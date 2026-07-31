@@ -2,7 +2,7 @@
 
 The recommended companion soundpack for **ArdisFoxx's Lewd RPG** on Foundry VTT.
 
-A curated selection of voices and SFX. The download covers AFLP's full audio feature set.
+A curated selection of voices and SFX. The download covers AFLR's full audio feature set.
 
 ## Install
 
@@ -12,7 +12,7 @@ In Foundry: **Add-on Modules -> Install Module**, paste this manifest URL, and c
 https://github.com/ArdisFoxx/aflr-soundpack/releases/latest/download/module.json
 ```
 
-Then enable **AFLR Soundpack** under Manage Modules. AFLP detects it automatically - there is no path to configure. Turn on Voice and/or Ambient SFX in the AFLP settings and assign a voice profile per actor from their AFLP sheet.
+Then enable **AFLR Soundpack** under Manage Modules. AFLR detects it automatically - there is no path to configure. Turn on Voice and/or Ambient SFX in the AFLR settings and assign a voice profile per actor from their AFLP sheet.
 
 Manual install: download `module.zip` from the [latest release](https://github.com/ArdisFoxx/aflr-soundpack/releases/latest), unzip into `Data/modules/`, and restart Foundry.
 
