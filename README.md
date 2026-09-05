@@ -18,7 +18,7 @@ Manual install: download `module.zip` from the [latest release](https://github.c
 
 ## Requires
 
-- **ArdisFoxx's Lewd RPG** (`ardisfoxxs-lewd-rpg`). The soundpack has no effect on its own.
+- **ArdisFoxx's Lewd RPG** (`ardisfoxxs-lewd-rpg` or the previous PF2e-only version AFLP). The soundpack has no effect on its own.
 
 ## What's inside
 
